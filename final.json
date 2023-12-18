@@ -57,15 +57,15 @@
     },
     {
         "Q": "X did his Btech in Information Technology from IIT Kharagpur and his MBA from IIM-A. In the earlier days X had immense problems interacting with seniors who were not willing to accept his ideas. But in the year 2000 things changed when X’s idea of Y was accepted as an experimental project. X was recently promoted from his position as an associate executive producer to the executive producer of Y.",
-        "A": "X: Raghuram (Raghu)\nY: MTV Roadies"
+        "A": "X: Raghuram (Raghu)\\nY: MTV Roadies"
     },
     {
         "Q": "X was born in India on 13th December 1968. X was schooled at the St.Joseph’s Boys high School in Bangalore. In 1985, he began his undergraduate education at the BITS in Pilani and was transferred to Caltech after two years at BITS. After graduating from Caltech, X went to Stanford University in 1989 to pursue his M.S in Electrical Engineering. At Stanford, he worked on Ultra Low Power VLSI Design. X later joined a company called Y. Later X teamed up with Jack Smith, his colleague from Y. The two worked together on a project Z which was released on July 4th, 1996",
-        "A": "X: Sabeer Bhatia\nY: Apple\nZ: HoT MaiL"
+        "A": "X: Sabeer Bhatia\\nY: Apple\\nZ: HoT MaiL"
     },
     {
         "Q": "X was a prominent English mathematician known for his work on Number theory and mathematical analysis. Y was another mathematician who worked on Number theory, infinite series and continued fractions. When X was once asked as to what was his greatest contribution in the field of mathematics, he said it was the discovery of Y.",
-        "A": "X: GH Hardy\nY: Srinivasa Ramanujam"
+        "A": "X: GH Hardy\\nY: Srinivasa Ramanujam"
     },
     {
         "Q": "In golf terminology, what do you call a hole which is played three strokes under par?",
@@ -73,10 +73,10 @@
     },
     {
         "Q": "X was born in Egypt in 1968 in a small town in the Nile delta, but moved with his family to Cairo at age 10. He studied architecture at Cairo University, and went to Hamburg Germany in 1992 to continue his studies. X enrolled in the urban planning at the Technical University of Hamburg where he remained a student until fall 1999. Later X spent some time in Y(country), including several months in late 1999 and early 2000 when he met top leaders including Z. X was recruited by Z for an important project. The following year X travelled to Spain to exchange information and discuss the final plots of the project.",
-        "A": "X: Mohammed Atta\\nY: Afghanistan\\nZ: Osama Bin Laden"
+        "A": "X: Mohammed Atta\\\\nY: Afghanistan\\\\nZ: Osama Bin Laden"
     },
     {
-        "Q": "X is a Turkish software engineer who obtained a B.Sc in Computer engineering from Bilkent Univ, Ankara and a Phd in Computer Science from Stanford University. He is engaged to his boy friend Derek\\nX is known for his project Y which he launched in 2004.",
+        "Q": "X is a Turkish software engineer who obtained a B.Sc in Computer engineering from Bilkent Univ, Ankara and a Phd in Computer Science from Stanford University. He is engaged to his boy friend Derek\\\\nX is known for his project Y which he launched in 2004.",
         "A": "The founder of Orkut: Orkut Buyukkokten"
     },
     {
@@ -93,7 +93,7 @@
     },
     {
         "Q": "X was supposed to have presented gold medals to the victorious team, but had left earlier, in frustration and in anger. The next day, X asked to see Y. When he received this message, Y became very worried, could not eat properly and spent a sleepless night. In the morning Y went to meet X. X welcomed Y warmly in his private box and showed him his view of the stadium. X asked Y what he did in his country(Y’s country). Y said that he was part of the army. To this, X offered Y a high post in the army of his country and asked Y to relocate to his country. Y politely refused, saying that his family was well settled and it would be difficult for him to relocate. X understood his position and ended the meeting.",
-        "A": "X: Adolf Hitler\nY: Dhyanchand"
+        "A": "X: Adolf Hitler\\nY: Dhyanchand"
     },
     {
         "Q": "The recommended speed of X is 130 km/h (81 mph), but there is no speed limit. Austrian and Swiss X have general speed limits of 130 km/h (81 mph) and 120 km/h (75 mph), respectively. The first X of its kind was made in 1931 but was known by a different name than it is today. The maximum design speed was approximately 80 km/h in flat country but lower design speeds could be used in hilly or mountainous terrain. Identify X.",
@@ -176,8 +176,8 @@
         "A": "testicles. The word is testify or testimony."
     },
     {
-        "Q": "John Pearce in ‘Why X says Y is catholic’, National Catholic register (Jan 12 -19, 2003)\nAt its most profound level, Y is a sublimely mystical passion play. The carrying of ______ — the emblem of sin — is the carrying of the cross. This is the ultimate applicability of Y — that we have to lose our life in order to gain it; that unless we die we cannot live; that we must all take up our cross and follow him.\nAll of this would be deducible from the story itself but X makes the parallel even more explicit. 'I should say,' he wrote, explaining the final climactic moments, 'that within the mode of the story [it] exemplifies (an aspect of) the familiar words: 'Forgive us our trespasses as we forgive them that trespass against us. Lead us not into temptation but deliver us from evil.'\nAs if this were not enough to silence those sceptics who obstinately refuse to acknowledge the overriding Christian dimension in Y, X makes it even more unmistakable, and unavoidable, in the fact that the climactic attempt to...blah blah… occurred on 'the twenty-fifth of March.'\nThe significance of this date will not escape the attention of Catholic scholars, though it is certainly overlooked all too often by X's non-Christian admirers. Tom Shippey, an Anglo-Saxon scholar , states in his book that in 'Anglo-Saxon belief, and in European popular tradition both before and after that, March 25 is the date of the Crucifixion.' It is also, of course, the Feast of the Annunciation, the celebration of the absolute centre of all history as the moment when God himself became incarnate as man.",
-        "A": "X: J.R.R.Tolkien\nY: The Lord of the Rings"
+        "Q": "John Pearce in ‘Why X says Y is catholic’, National Catholic register (Jan 12 -19, 2003)\\nAt its most profound level, Y is a sublimely mystical passion play. The carrying of ______ — the emblem of sin — is the carrying of the cross. This is the ultimate applicability of Y — that we have to lose our life in order to gain it; that unless we die we cannot live; that we must all take up our cross and follow him.\\nAll of this would be deducible from the story itself but X makes the parallel even more explicit. 'I should say,' he wrote, explaining the final climactic moments, 'that within the mode of the story [it] exemplifies (an aspect of) the familiar words: 'Forgive us our trespasses as we forgive them that trespass against us. Lead us not into temptation but deliver us from evil.'\\nAs if this were not enough to silence those sceptics who obstinately refuse to acknowledge the overriding Christian dimension in Y, X makes it even more unmistakable, and unavoidable, in the fact that the climactic attempt to...blah blah… occurred on 'the twenty-fifth of March.'\\nThe significance of this date will not escape the attention of Catholic scholars, though it is certainly overlooked all too often by X's non-Christian admirers. Tom Shippey, an Anglo-Saxon scholar , states in his book that in 'Anglo-Saxon belief, and in European popular tradition both before and after that, March 25 is the date of the Crucifixion.' It is also, of course, the Feast of the Annunciation, the celebration of the absolute centre of all history as the moment when God himself became incarnate as man.",
+        "A": "X: J.R.R.Tolkien\\nY: The Lord of the Rings"
     },
     {
         "Q": "Back in the 18th century, Eton College had a grammar book which listed a set of words from Latin which all meant 'of little or no value'. As a joke, somebody put all four of these together and created a new word. The first recorded use is by William",
@@ -208,7 +208,7 @@
         "A": "Grateful Dead"
     },
     {
-        "Q": "We want to make sure that when it comes Tuesday, February 18th, that you all go out there and help the President and pump up his vote,\nI want you to vote, and at the same time send a message to Congress,\nAt the same time, send a message to Pat Buchanan: ______________",
+        "Q": "We want to make sure that when it comes Tuesday, February 18th, that you all go out there and help the President and pump up his vote,\\nI want you to vote, and at the same time send a message to Congress,\\nAt the same time, send a message to Pat Buchanan: ______________",
         "A": "Hasta la Vista, baby."
     },
     {
@@ -228,7 +228,7 @@
         "A": "Johanes Gutenberg; The Printing Press"
     },
     {
-        "Q": "Bob Dylan on X.\n'When I first heard X’s voice I just knew that I wasn't going to work for anybody; and nobody was going to be my boss. Hearing him for the first time was like busting out of jail.’ X?",
+        "Q": "Bob Dylan on X.\\n'When I first heard X’s voice I just knew that I wasn't going to work for anybody; and nobody was going to be my boss. Hearing him for the first time was like busting out of jail.’ X?",
         "A": "Elvis Presley"
     },
     {
@@ -432,7 +432,7 @@
         "A": "Archie Jackson"
     },
     {
-        "Q": "X is a native of Seattle who exhibited an early interest in theoretical physics, especially quantum mechanics and the theory of general relativity. His childhood heroes were Albert Einstein, Stephen Hawking, and Richard Feynman. After observing a series of teleportation experiments conducted by the Institute for Experimental Physics in Innsbruck, Austria, the transmission of matter became X's obsession. X has no known dependents. He graduated from MIT with a Ph.D. degree in Theoretical Physics. His doctoral thesis on the teleportation of matter through extremely dense elements was titled Observation of Einstein-Podolsky-Rosen Entanglement on Supraquantum Structures by Induction Through Nonlinear Transuranic Crystal of Extremely Long Wavelength (ELW) Pulse from Mode-Locked Source Array.\nWho?",
+        "Q": "X is a native of Seattle who exhibited an early interest in theoretical physics, especially quantum mechanics and the theory of general relativity. His childhood heroes were Albert Einstein, Stephen Hawking, and Richard Feynman. After observing a series of teleportation experiments conducted by the Institute for Experimental Physics in Innsbruck, Austria, the transmission of matter became X's obsession. X has no known dependents. He graduated from MIT with a Ph.D. degree in Theoretical Physics. His doctoral thesis on the teleportation of matter through extremely dense elements was titled Observation of Einstein-Podolsky-Rosen Entanglement on Supraquantum Structures by Induction Through Nonlinear Transuranic Crystal of Extremely Long Wavelength (ELW) Pulse from Mode-Locked Source Array.\\nWho?",
         "A": "Gordon Freeman"
     },
     {
@@ -440,11 +440,11 @@
         "A": "Steve Ballmer"
     },
     {
-        "Q": "Very bad question, but I had to put it in. This a list of what:\nGoodfellas - 300\nReservoir Dogs - 269\nPulp Fiction - 265\nThe Big Lebowski - 260\nThe Departed - 237\nAmerican History X - 214",
+        "Q": "Very bad question, but I had to put it in. This a list of what:\\nGoodfellas - 300\\nReservoir Dogs - 269\\nPulp Fiction - 265\\nThe Big Lebowski - 260\\nThe Departed - 237\\nAmerican History X - 214",
         "A": "Movies with the maximum usage of the word ‘fuck’ in them"
     },
     {
-        "Q": "• Never throw shit at an armed man\n• Never stand next to somebody throwing shit at an armed man.\n• Never fire a laser at a mirror\n• Mother Nature doesn’t care if you’re having fun\n• Giving up freedom for security is beginning to look        naïve.\n• Psi and/or magical powers, if they exist, are useless.\nIt is easier to destroy than to create.\nWho are these laws named after?",
+        "Q": "• Never throw shit at an armed man\\n• Never stand next to somebody throwing shit at an armed man.\\n• Never fire a laser at a mirror\\n• Mother Nature doesn’t care if you’re having fun\\n• Giving up freedom for security is beginning to look        naïve.\\n• Psi and/or magical powers, if they exist, are useless.\\nIt is easier to destroy than to create.\\nWho are these laws named after?",
         "A": "Nevin’s Laws"
     },
     {
@@ -456,27 +456,27 @@
         "A": "RadioShack Inc. will sponsor the new team being floated by Lance Armstrong and longtime coach Johan Bruyneel that will hopefully be taking part in the 2009 Tour de France."
     },
     {
-        "Q": "The law, as set out by John Bangsund, states that: (a) if you write anything criticizing editing or proofreading, there will be a fault of some kind in what you have written; (b) if an author thanks you in a book for your editing or proofreading, there will be mistakes in the book; (c) the stronger the sentiment expressed in (a) and (b), the greater the fault; (d) any book devoted to editing or style will be internally inconsistent.\nIt goes on to say: X also dictates that, if a mistake is as plain as the nose on your face, everyone can see it but you. Your readers will always notice errors in a title, in headings, in the first paragraph of anything, and in the top lines of a new page. These are the very places where authors, editors and proofreaders are most likely to make mistakes.\nWhat?",
+        "Q": "The law, as set out by John Bangsund, states that: (a) if you write anything criticizing editing or proofreading, there will be a fault of some kind in what you have written; (b) if an author thanks you in a book for your editing or proofreading, there will be mistakes in the book; (c) the stronger the sentiment expressed in (a) and (b), the greater the fault; (d) any book devoted to editing or style will be internally inconsistent.\\nIt goes on to say: X also dictates that, if a mistake is as plain as the nose on your face, everyone can see it but you. Your readers will always notice errors in a title, in headings, in the first paragraph of anything, and in the top lines of a new page. These are the very places where authors, editors and proofreaders are most likely to make mistakes.\\nWhat?",
         "A": "Murphy’s Law"
     },
     {
-        "Q": "Bad Question Again. Connect:\nUniversity of California, Berkeley\nPurdue University\nUniversity of California, Los Angeles\nMassachusetts Institute of Technology\nHarvard University\nColumbia University\nCornell University\nHint: Think Internet.",
+        "Q": "Bad Question Again. Connect:\\nUniversity of California, Berkeley\\nPurdue University\\nUniversity of California, Los Angeles\\nMassachusetts Institute of Technology\\nHarvard University\\nColumbia University\\nCornell University\\nHint: Think Internet.",
         "A": "First Universities to put their Archives on the Internet"
     },
     {
-        "Q": "Her mother, Irene, was the eldest child of Max Born, the German physicist and Nobel Prize winner. Her father, Brinley was an MI5 officer and took Rudolph Hess into custody during World War II. She hit the limelight with the film adaptation of a Jim Jacobs and Warren Casey broadway musical about the way rock and roll changed American sexuality and culture. \nIdentify.",
+        "Q": "Her mother, Irene, was the eldest child of Max Born, the German physicist and Nobel Prize winner. Her father, Brinley was an MI5 officer and took Rudolph Hess into custody during World War II. She hit the limelight with the film adaptation of a Jim Jacobs and Warren Casey broadway musical about the way rock and roll changed American sexuality and culture. \\nIdentify.",
         "A": "Olivia Newton-John"
     },
     {
-        "Q": "• This term, developed in the 16th century, was used to describe rough, noisy and boastful swordsmen. It is based on a fighting style using a side-sword in one and a _________ in the off-hand, which was filled with the production of a peculiar sound.\nA classical X exhibits exceptional courage and swordfighting skill, a strong sense of honor and justice, a chivalric romantic sense, and the capacity for wit, style, and resourcefulness under pressure. Such characters include The Three Musketeers, The Scarlet Pimpernel, Robin Hood, Zorro.\nToday the term has changed, and refers to both a type of fictitious character and to a fiction genre. It also refers to a brilliant performance by someone.\nWhat term?\nAnswer 18\n",
+        "Q": "• This term, developed in the 16th century, was used to describe rough, noisy and boastful swordsmen. It is based on a fighting style using a side-sword in one and a _________ in the off-hand, which was filled with the production of a peculiar sound.\\nA classical X exhibits exceptional courage and swordfighting skill, a strong sense of honor and justice, a chivalric romantic sense, and the capacity for wit, style, and resourcefulness under pressure. Such characters include The Three Musketeers, The Scarlet Pimpernel, Robin Hood, Zorro.\\nToday the term has changed, and refers to both a type of fictitious character and to a fiction genre. It also refers to a brilliant performance by someone.\\nWhat term?\\nAnswer 18\\n",
         "A": "Swashbuckler"
     },
     {
-        "Q": "• A 1928 recording by Louis Armstrong and his orchestra named after a slang term used in the Jazz world for marijuana\n• A term used by geocachers to refer to those not involved in or aware of the sport of Geocaching\n• A term inducted into the OED in 2003 standing for a person lacking a skill",
+        "Q": "• A 1928 recording by Louis Armstrong and his orchestra named after a slang term used in the Jazz world for marijuana\\n• A term used by geocachers to refer to those not involved in or aware of the sport of Geocaching\\n• A term inducted into the OED in 2003 standing for a person lacking a skill",
         "A": "Muggle"
     },
     {
-        "Q": "Felice ______ was an Italian pharmacist, a maker of liquor and freedom fighter under Garibaldi. Born in Gerolanuova near Brescia, he established a chemical laboratory in Milano, developing a successful amaro made as an alcohol infusion of cinchona bark, herbs, and iron salts. The laboratory made the 'l’esanofele', a chemical based on quinine, iron and arsenic to combat malaria.\nWhy is this person very important in an Indian context?",
+        "Q": "Felice ______ was an Italian pharmacist, a maker of liquor and freedom fighter under Garibaldi. Born in Gerolanuova near Brescia, he established a chemical laboratory in Milano, developing a successful amaro made as an alcohol infusion of cinchona bark, herbs, and iron salts. The laboratory made the 'l’esanofele', a chemical based on quinine, iron and arsenic to combat malaria.\\nWhy is this person very important in an Indian context?",
         "A": "His surname is Bisleri"
     },
     {
@@ -812,10 +812,6 @@
         "A": "As it turns out, England had been using the Gregorian calendar, the one that we use today, for over a century and a half. Unfortunately, Russia was still using the Julian calendar—a pretty dated way to keep track of the days!"
     },
     {
-        "Q": "X was a star of Indian athletics in the 1960s and the 1970s. Being 6'7\", he dominated the Indian hammer and discus throws for several years. He became a Double gold medalist in discus throwing in the 1966 and 1970 Asian Games holding the Asian Games record of 56.76 metres. He was a silver medalist in the 1966 Commonwealth Games in Kingston and in the 1974 Asian Games in Tehran. He contested the 1968 Summer Olympics and in the 1972 Summer Olympics. He contested the 2013 Delhi Legislative elections on an Aam Aadmi Party ticket, but lost.",
-        "A": "Praveen Kumar Sobti\nPlayed Bheem in Mahabharat"
-    },
-    {
         "Q": "In Japan, avid golfers buy insurance to protect themselves on the course, however, it’s not for what you might think. They purchase it because of something else. The policy covers them for a party worth up to $3,000, for the low price of $65 a year. What is the insurance for?",
         "A": "It is called Hole in One insurance. They purchase it because if they get a hole-in-one, they have to buy gifts and drinks for their friends."
     },
@@ -841,7 +837,7 @@
     },
     {
         "Q": "Human crush resulted in the deaths of 96 people and injuries to 766 others. The incident has since been blamed primarily on the police for letting too many people enter the stadium. It remains the worst stadium-related disaster in British history, and one of the world's worst football disasters. Name the disaster or the two teams involved.",
-        "A": "Hillsborough Disaster\nLiverpool and Nottingham Forest"
+        "A": "Hillsborough Disaster\\nLiverpool and Nottingham Forest"
     },
     {
         "Q": "In soccer or European football, a player is ______ when an opponent kicks the ball between his or her legs. According to Peter Seddon's Football Talk: The Language & Folklore of the World's Greatest Game, the verb is listed in the Oxford English Dictionary as 'arising in the 1870s which in Victorian slang came to mean 'to be tricked or deceived, especially in a manner which makes the victim look foolish.'",
@@ -853,7 +849,7 @@
     },
     {
         "Q": "___X___ fans attempted various methods over the years to exorcise their famous curse. These included placing a ___X___ cap atop Mt. Everest and burning a Yankees cap at its base camp; hiring professional exorcists and Father Guido Sarducci to 'purify' Fenway Park; spray painting a 'Reverse Curse' street sign on Storrow Drive to change it to say 'Reverse the Curse'; and finding a piano owned by ___Y___ that he had supposedly pushed into a pond near his Sudbury, Massachusetts farm, Home Plate Farm.",
-        "A": "Curse of the Bambino\nX- Red Sox\nY- Babe Ruth"
+        "A": "Curse of the Bambino\\nX- Red Sox\\nY- Babe Ruth"
     },
     {
         "Q": "Purists of the sport claim that it was started in 1997 in Leicester, England, by resident Phil Shaw in his back garden. Shaw came home from what he recalls as a hard day in a Leicester knitwear factory. Preferring the idea of an evening out rock climbing, he decided to combine the two activities into a new extreme sport. In June 1999, Shaw, who uses the nickname 'Steam', embarked on an international tour to promote the activity.",
@@ -916,11 +912,11 @@
         "A": "Manufacture of Dandiya Sticks"
     },
     {
-        "Q": "He is the only actor, other than Jack Nicholson, to be nominated for an Academy Award for acting lead or supporting in every decade since the 1960s. He has won two of these awards - for the 1986 film Hannah and Her Sisters, in both cases as a supporting actor. He has appeared in more than one hundred films and his real name is Sir Maurice Joseph Micklewhite Jr.\nWhat is his screen name?",
+        "Q": "He is the only actor, other than Jack Nicholson, to be nominated for an Academy Award for acting lead or supporting in every decade since the 1960s. He has won two of these awards - for the 1986 film Hannah and Her Sisters, in both cases as a supporting actor. He has appeared in more than one hundred films and his real name is Sir Maurice Joseph Micklewhite Jr.\\nWhat is his screen name?",
         "A": "Sir Michael Caine"
     },
     {
-        "Q": "This international sportsman has signed a deal to write books for children as part of a 5-book series called 'Frankie's Magic Football', with the first one called 'Frankie Versus the Pirate Pillagers'. The series will centre around football-mad Frankie, and is derived from the sportsman's experiences of reading to his daughters and making up stories based on their friends.\nWho?",
+        "Q": "This international sportsman has signed a deal to write books for children as part of a 5-book series called 'Frankie's Magic Football', with the first one called 'Frankie Versus the Pirate Pillagers'. The series will centre around football-mad Frankie, and is derived from the sportsman's experiences of reading to his daughters and making up stories based on their friends.\\nWho?",
         "A": "Frank Lampard"
     },
     {
@@ -936,7 +932,7 @@
         "A": "Sidequel"
     },
     {
-        "Q": "The following lines written in 1590 by Sir Edmund Spenser from Book 3 of his epic The Faerie Queene: - It was upon a Sommers shynie day\n- When Titan faire his beames did display,\n- In a fresh fountaine, farre from all mens vew,\n- She bathd her brest, the boyling heat tallay;\n- She bathd with ____ ____, and ___ ____ ,\n- And all the sweetest flowres, that in the forrest grew.",
+        "Q": "The following lines written in 1590 by Sir Edmund Spenser from Book 3 of his epic The Faerie Queene: - It was upon a Sommers shynie day\\n- When Titan faire his beames did display,\\n- In a fresh fountaine, farre from all mens vew,\\n- She bathd her brest, the boyling heat tallay;\\n- She bathd with ____ ____, and ___ ____ ,\\n- And all the sweetest flowres, that in the forrest grew.",
         "A": "Roses red and violets blue"
     },
     {
@@ -1008,7 +1004,7 @@
         "A": "Chandigarh"
     },
     {
-        "Q": "Cheetah\nPuma\nJaguar\nPanther\nTiger\nLeopard\nSnow Leopard\nLion\nMountain Lion\nApart from being members of the cat family, what do they have in common?",
+        "Q": "Cheetah\\nPuma\\nJaguar\\nPanther\\nTiger\\nLeopard\\nSnow Leopard\\nLion\\nMountain Lion\\nApart from being members of the cat family, what do they have in common?",
         "A": "Mac OS X names"
     },
     {
@@ -1032,7 +1028,7 @@
         "A": "Algorithm to predict ISIS Attacks"
     },
     {
-        "Q": "Abhaya, Varada, Akasha, Mayur, Chatura, Tripataka, Prana, Trishul, Pranayama\nWhat are all these?\nWhere will you find these at one place?",
+        "Q": "Abhaya, Varada, Akasha, Mayur, Chatura, Tripataka, Prana, Trishul, Pranayama\\nWhat are all these?\\nWhere will you find these at one place?",
         "A": "Mudras and Mudra installation at the T-3 terminal at the IGI Airport"
     },
     {
@@ -1076,7 +1072,7 @@
         "A": "Safe word"
     },
     {
-        "Q": "A: *whip whip*\nB: Ouch, no, stop, please stop ... FISHSTICKS!\nA: Huh?\nB: Dammit, that's our X - now seriously, fishsticks!\nOther examples are Beetle juice, Foliage and Justin Beiber. What is X?",
+        "Q": "A: *whip whip*\\nB: Ouch, no, stop, please stop ... FISHSTICKS!\\nA: Huh?\\nB: Dammit, that's our X - now seriously, fishsticks!\\nOther examples are Beetle juice, Foliage and Justin Beiber. What is X?",
         "A": "Safeword"
     },
     {
@@ -1358,10 +1354,6 @@
     {
         "Q": "This word comes from Arabic, which originally meant a very fine powder of Antimony used as eye makeup. It conveyed the idea of something very fine and the Arab alchemists therefore used this term to describe all compounds obtained through distillation process.",
         "A": "Alcohol"
-    },
-    {
-        "Q": "The quote \"logarithmic plots are a device of the devil\" is attributed to X. X invented an instrument generally consisting of a constantly unwinding roll of paper, anchored to a fixed place, and a pendulum or magnet suspended with a marking device above the roll – to record even a sensitive motion. X chose to use the term \"magnitude\" to describe the quantity being measured because of his early interest in astronomy; stargazers use the word to describe the brightness of stars. Gutenberg suggested that the scale be logarithmic, so that a 7 would be ten times stronger than a 6, a hundred times stronger than a 5, and a thousand times stronger than a 4.",
-        "A": "Richter Scale"
     },
     {
         "Q": "According to the legend, St. Nicholas (Sinterklaas in Dutch) lives in Spain, arrives in Holland by boat every year with a team of black assistants in tow, and spends a month delivering presents to children across the country. Some people say his black assistant doesn’t have black skin; instead, he’s just covered in soot from delivering presents through the chimney. Others say he’s St. Nicholas’s friend, and has never been a slave caricature, as generally argued. What are his black assistants, that come under fire for being racist every year, called?",
@@ -1745,7 +1737,7 @@
     },
     {
         "Q": "X (acronym of the Russian for ‘Death to Spies’) was an umbrella name for three independent counter-intelligence agencies in the Red Army formed in late 1942 or even earlier, but officially founded on 14 April 1943. The name X was coined by Joseph Stalin. The main reason for its creation was to subvert the attempts by German forces to infiltrate the Red Army. It served as the inspiration for a fictional organization having the same name, although the novels portray X as a massive Soviet counterintelligence organization, much more resembling the real-life KGB, which aims its operatives abroad in subversion of the West, with the additional goal of killing Western spies. In the film series, X is usually replaced by Y. Y began in the novels as a small group of criminals but became a vast international organization with its own island training base in the films. Y is not aligned to any nation or political ideology, enabling it to be regarded as somewhat apolitical though the former Gestapo members are a clear sign of after WWII. the later books and films author’s warning of the Nazi fascists surviving X and Y?",
-        "A": "X – SMERSH\nY – SPRECTRE"
+        "A": "X – SMERSH\\nY – SPRECTRE"
     },
     {
         "Q": "The cover art of Miles Davis’s major label debut album and that of John Coltrane’s second studio album, as well as their titles, are directly influenced by the paintings produced by a painter between 1901 and 1904, usually defined by the term X, which is also the title of the former album. What is the term and who is the painter? (pic in next slide)",
@@ -1880,7 +1872,7 @@
         "A": "Novel 'A Passage to India'"
     },
     {
-        "Q": "As the oldest one in Dublin, this football club has a rich heritage in terms of their sporting culture but their ground’s musical history is something that truly captures their fans imagination. At the beginning of this year, they announced a special away jersey (pic on the next slide) as a tribute to someone whose last live performance took place in their ground. This musicians’ style and attitude were perhaps a subtle nod to the name of the club which also had the likes of Queen and U2 perform once in their ground.\nWhat are we talking about? (Identify X and the project)",
+        "Q": "As the oldest one in Dublin, this football club has a rich heritage in terms of their sporting culture but their ground’s musical history is something that truly captures their fans imagination. At the beginning of this year, they announced a special away jersey (pic on the next slide) as a tribute to someone whose last live performance took place in their ground. This musicians’ style and attitude were perhaps a subtle nod to the name of the club which also had the likes of Queen and U2 perform once in their ground.\\nWhat are we talking about? (Identify X and the project)",
         "A": "Bohemian FC, Bob Marley"
     },
     {
@@ -1996,19 +1988,19 @@
         "A": "Rabri Devi, Former Chief Minister of Bihar"
     },
     {
-        "Q": "In March 1941, after assuming the guise of a Pashtun insurance agent called Ziaudddin to reach Afghanistan, he changed his guise and travelled to Moscow on the Italian passport of an Italian nobleman 'Count Orlando Mazzotta‘, using a diplomatic car. From Moscow, he reached Rome, and from there he travelled to Germany. \n What Bond like person are we talking about? \n Later in his life, he had also adopted a Japanese alter-ego called Ichiro Okuda.",
+        "Q": "In March 1941, after assuming the guise of a Pashtun insurance agent called Ziaudddin to reach Afghanistan, he changed his guise and travelled to Moscow on the Italian passport of an Italian nobleman 'Count Orlando Mazzotta‘, using a diplomatic car. From Moscow, he reached Rome, and from there he travelled to Germany. \\n What Bond like person are we talking about? \\n Later in his life, he had also adopted a Japanese alter-ego called Ichiro Okuda.",
         "A": "Subhash Chandra Bose"
     },
     {
-        "Q": "This was created in 1874, by an English bakery to commemorate the marriage of the Grand Duchess Maria Alexandrovna of Russia to the Duke of Edinburgh. throughout Europe, and also has a great fan base among the young and old of India. After the Spanish Civil War, this became an icon of Spain’s economic recovery after bakers made these in large numbers to finish the surplus of wheat. \n What was so created?",
+        "Q": "This was created in 1874, by an English bakery to commemorate the marriage of the Grand Duchess Maria Alexandrovna of Russia to the Duke of Edinburgh. throughout Europe, and also has a great fan base among the young and old of India. After the Spanish Civil War, this became an icon of Spain’s economic recovery after bakers made these in large numbers to finish the surplus of wheat. \\n What was so created?",
         "A": "Marie Biscuits"
     },
     {
-        "Q": "Each year, particularly during the period of Makar Sankrant, you will hear this exclamation from the rooftops of Gujarat. \n If you cut a kite, you can shout this Gujarati phrase to indicate your achievement. \n What Gujarati phrase, made famous by a 2013 Bollywood movie, is this?",
+        "Q": "Each year, particularly during the period of Makar Sankrant, you will hear this exclamation from the rooftops of Gujarat. \\n If you cut a kite, you can shout this Gujarati phrase to indicate your achievement. \\n What Gujarati phrase, made famous by a 2013 Bollywood movie, is this?",
         "A": "Kai Po Che"
     },
     {
-        "Q": "This place is(was?) Asia’s largest market square. \n The marketplace derives its name from the canals filled with water that sparkled brightly in the moonlight.",
+        "Q": "This place is(was?) Asia’s largest market square. \\n The marketplace derives its name from the canals filled with water that sparkled brightly in the moonlight.",
         "A": "Chandani Chowk in Delhi"
     },
     {
@@ -2225,7 +2217,7 @@
     },
     {
         "Q": "This rifle regiment gets its name from the word _________, meaning the son of the king and hail from a region referred to as the land of the _______ which thus, lends it this name. The crest of this regiment comprises of a distinctive medieval weapon among this clan which was also a sign of wealth and position. In addition to this, there’s another entity which is symbolic of a war cry and thus, is aptly incorporated here.",
-        "A": "Rajputana",
+        "A": "Rajputana"
     },
     {
         "Q": "The recruitment for this regiment only takes place from these 3 northernmost states of India where a lot of people have been seen to have devotion towards a particular deity. Hence, the crest of this regiment aptly includes the mount of this deity and the regiment name appears to be a variation of the deity’s name as a way of signifying a group of worshippers of this specific deity.",
@@ -2237,7 +2229,7 @@
     },
     {
         "Q": "X is a town from a southern district of West Bengal located along the banks of the Bhagirathi river. X gets its name from an incident in mythology, when Bhagirathi’s chariot wheel got stuck in the sand while he was guiding the Ganga through this path. An upcoming work based around the inspiring life of a famous received personality from X is currently in news and has widespread praise and hate alike. ID X and also the personality on whom the upcoming work is based.",
-        "A": "Chakdaha, Jhulan Goswami",
+        "A": "Chakdaha, Jhulan Goswami"
     },
     {
         "Q": "In the early 1970s, a duo of a famous group on their way back from a tour in Japan, decided to dock in India and hence, landed at Bombay. Although their visit wasn’t as impactful and sought after as another British group’s visit in the previous decade, it sure left a mark as they found themselves involved in an impromptu jam at a club where earlier they were denied entry on the grounds that ‘hippies were not allowed’ owing to their looks. Finding the club at Taj too posh and boring, they went out and stumbled upon this small place where they were eventually allowed thanks to another visitor who recognized them.",
@@ -2261,7 +2253,7 @@
     },
     {
         "Q": "A particular hall named after Queen Victoria’s husband served as the venue for the debut international gig of N around 5 decades ago. N was pretty nervous but was really grateful for the reception of the crowd who were entertained with one hit after another and also N’s humorous nature. A certain ‘Yusuf bhai’, as N lovingly called him introduced N to the concert with a famous speech in Urdu and encouraging them to provide a warm welcome with a round of applause.",
-        "A": "Lata Mangeshkar, Dilip Kumar",
+        "A": "Lata Mangeshkar, Dilip Kumar"
     },
     {
         "Q": "Ring play is a defensive technique of a particular Indian sport which is used by the defender to kill time of the game and make the chasers go after him in circles/ovals one after the other. A tactic similar to this was employed by a certain individual in mythology to break a structure while entering it and although it did not end well for him, this tactic is said to have given inspiration the sport very aptly since it used to be played in chariots earlier.",
@@ -2288,7 +2280,7 @@
         "A": "Vicodin"
     },
     {
-        "Q": "In 1909, he was quoted as saying – ‘I came in with X in 1835. It is coming again next year, and I expect to go out with it. It will be the greatest disappointment of my life if I don’t go out with X. The almighty has said, ‘Now here are these two unaccountable freaks; they came in together, they must go out together.’ This prediction came out to be accurate – X came on April 10, 1910, and this person died the next day. Identify X and the person.', \t",
+        "Q": "In 1909, he was quoted as saying – ‘I came in with X in 1835. It is coming again next year, and I expect to go out with it. It will be the greatest disappointment of my life if I don’t go out with X. The almighty has said, ‘Now here are these two unaccountable freaks; they came in together, they must go out together.’ This prediction came out to be accurate – X came on April 10, 1910, and this person died the next day. Identify X and the person.', \\t",
         "A": "Halley’s Comet, Mark Twain"
     },
     {
@@ -2373,7 +2365,7 @@
     },
     {
         "Q": "Dirk Gently’s Holistic Detective Agency is a series on Netflix which takes its name and inspiration from the novel series by Douglas Adams. In season 1, at a very crisis moment in one of the final episodes, Dirk, having completely lost his cool with how fast events have been moving, ironically says ____ _____. This, not only being excellent advice to give to anyone, is also a tribute to the other very famous creation of Douglas Adams. ",
-        "A": "Don’t Panic",
+        "A": "Don’t Panic"
     },
     {
         "Q": "X was originally known as Mr Video, and then Jumpman. However, the creators arrived at X’s current name when they were trying to think of a better name and were interrupted by X Segale, after whom they named X. ID X.",
@@ -2421,7 +2413,7 @@
     },
     {
         "Q": "In 2012, X was listening to a song by David Whistle (formerly known as DJ Ness), and reached out to the Italian DJ to find out how he produced his music. He was inspired by EDM producers K-391 and Ahrix, and is also influenced by film composers like Hans Zimmer and Steve Jablonsky. He started all his music on his laptop with FL Studio. In July 2012, with the help and feedback from his fans online, he began pursuing his music production career and slowly began posting his music to YouTube and SoundCloud. X released the track ‘____’ on 17 August 2014. The track gained attention after its re-release via the record label NoCopyrightSounds on 19 November. X stated that the creation of the track was inspired by K-391 and Ahrix, whose tracks were also picked up by the record label. The track has over 300 million views on YouTube, 70 million plays on Spotify, and 20 million streams on SoundCloud. It has become the most popular track on the channel, and is widely used by YouTubers in their videos.",
-        "A": "Alan Walker, Alone",
+        "A": "Alan Walker, Alone"
     },
     {
         "Q": "Which water body's Greek name lends its name to one of the countries bordering it and is represented by a blue portion in the flag of this country?",
@@ -2469,7 +2461,7 @@
     },
     {
         "Q": "Charles Davis, a cricket statistician claimed to have found many mistakes in old scorecards before the 1960s such as:- In the 1903-04, Victor Trumper scored 187 not out, but his scoring strokes add up to only 185. Sidney Barnes scored 234 in 1946-47, but in one surviving scorebook his strokes add up to only 233. Charlie McCartney's famous 345 against Notts in 1921 was probably 343. But the claim that made big news was about a match in 1928-29 between England and Australia. He says that in that match a boundary was perhaps scored by X not by Jack Ryder as the boundary was added to Ryder’s score. Give X and how is that boundary relevant to X?",
-        "A": "X – Donald Bradman\nThe boundary meant Bradman’s test average would be 100."
+        "A": "X – Donald Bradman\\nThe boundary meant Bradman’s test average would be 100."
     },
     {
         "Q": "Prometheus is a Titan, the son of Iapetus and Themis, and brother to Atlas, Epimetheus and Menoetius. He was a champion of mankind, known for his wily intelligence, and he stole something from Zeus and gave it to humans, which greatly helped them. Zeus then punished him for his crime by having him bound to a rock while a great eagle ate his liver every day, only to have it grow back to be eaten again the next day. How has Prometheus’s crime been immortalised?",
@@ -2477,7 +2469,7 @@
     },
     {
         "Q": "In 2004 Olympic, Cián O'Connor became an instant national hero, being the only Irish medalist that year. But their joy did not last long as O'Connor was later stripped off his medals later that year. One of the major reason of stripping of medals in world of Sports is person being tested positive for doping. However in this case O'Connor did not test positive for doping himself. Name the sport he played and why was he stripped off his medals?",
-        "A": "Equestrian\nHis horse was positive for doping"
+        "A": "Equestrian\\nHis horse was positive for doping"
     },
     {
         "Q": "Silver Reunion is an ESPN 30 for 30 shorts directed by Rory Karpf. The film tells about a secret meeting during summer 2012. The 12 members of a team reunited to discuss a four decade old matter and like the jury in '12 Angry Men,' the verdict needed to be unanimous :accept, or forever refuse. Which team?",
@@ -2493,7 +2485,7 @@
     },
     {
         "Q": "Bruce Perry was a British Police constable. His helmet/hat has been on show at The Rugby Club of London, attached to a photograph of a free-spirited Australian Michael O’Brian since 1974 rugby match between France and England. Later, that helmet/hat was auctioned for charity in 2000 and was sold at 2400 pounds. In that match O’Brian’s mates challenged him for a daring act which he successfully completed after having a few drinks and won 10 pounds. He was arrested for his act and was fined 10 pounds(exactly the same amount he won) by Richmond magistrates for ‘insulting behaviour’. A)What first did the world of sports witness? B)Why was the significance of that hat?",
-        "A": "First Streaker\nThe hat was a memento of the incident"
+        "A": "First Streaker\\nThe hat was a memento of the incident"
     },
     {
         "Q": "Harmanpreet Kaur was awarded the Arjuna award in 2017. For the ceremony at Rashtrapati Bhawan on Sports Day she had to wear a saree. As her parents were coming for the ceremony, so her mother would have been there to help her in wearing a saree. But due to some unfortunate event her parents could not start their journey to Delhi. Thankfully for her, basketballer Prashanti Singh’s(who was staying in same hotel for same ceremony) mother helped the cricketer get ready for the function. So why did not her parents come/ what unfortunate event?",
@@ -2657,7 +2649,7 @@
     },
     {
         "Q": "While the origin of this sport(?) is disputed, it is believed that it became popular among miners in Yorkshire, England as a pub game. Another more interesting origin story suggests that it originated at a time when hunting was a luxury only the rich could afford to keep X for hunting. This meant that poachers had to hide the live X that they caught from gamekeepers at a very short notice and found it convenient to hide them in their Y. This slowly developed into an endurance sport where players would try prevent the X from coming out for as long as they can, with the (un)official record being 5.5 hours. Identify the sport and where did the poachers hide the X? Also identify X, an animal which has been hit the hardest during the pandemic, specially those involved in a questionable industry in continental Europe.",
-        "A": "Ferret Legging. Ferrets are trapped inside the competitors trousers. X = mink/ferret",
+        "A": "Ferret Legging. Ferrets are trapped inside the competitors trousers. X = mink/ferret"
     },
     {
         "Q": "Played on a inflatable court that looks like something you would find in and amusement park, X is a modern sport that integrates elements of football, volleyball, gymnastics and music. The name is a portmanteau of two words where the first word refers to a musical style that is a laid-back, jazz infused variant of samba and is often translated as ‘style’, ‘flair’ or ‘attitude’. The inflatable court is divided into two halves by a volleyball-style net. There are trampolines on each side that allow player to jump high up and spike the ball, preferably with their feet in order to score extra points. The referees in this sport are not only tasked with judging the play but also serve as Master of Ceremonies, complete with whistles, percussion instruments and sometimes, a DJ set. Identify this sport.",
@@ -3576,31 +3568,31 @@
         "A": "J K Rowling was the author behind Roberth Gabraith"
     },
     {
-        "Q": "The United Nations announced on this “person” as the Honorary Ambassador for the Empowerment of Woman and Girls, despite frustration from both inside and outside the world organization that the spot should go to a less sexualized - woman.\nUN staffer Cass DuRant, who held a sign saying “Real Women Deserve a Real Ambassador,” said the protesters “don't think that a fictitious……character wearing basically what looks like a Playboy-type bunny outfit is really the right message we need to send to girls or even boys for that matter.”\nThe carefully choreographed ceremony was marred by some 50 UN staffers protesting by the visitors' entrance to the UN, who then went inside the Economic and Social Council chamber and silently turned their back to the stage during the opening speech, some with their fists in the air.\nWho was this rather “exceptional” ambassador?",
+        "Q": "The United Nations announced on this “person” as the Honorary Ambassador for the Empowerment of Woman and Girls, despite frustration from both inside and outside the world organization that the spot should go to a less sexualized - woman.\\nUN staffer Cass DuRant, who held a sign saying “Real Women Deserve a Real Ambassador,” said the protesters “don't think that a fictitious……character wearing basically what looks like a Playboy-type bunny outfit is really the right message we need to send to girls or even boys for that matter.”\\nThe carefully choreographed ceremony was marred by some 50 UN staffers protesting by the visitors' entrance to the UN, who then went inside the Economic and Social Council chamber and silently turned their back to the stage during the opening speech, some with their fists in the air.\\nWho was this rather “exceptional” ambassador?",
         "A": "Wonder Woman"
     },
     {
-        "Q": "She was an active member of politics at the Oxford Union through the 70s, this person ran a successful campaign to become the President of the Union in 1976 which many observers at the time felt was pointless given the far greater peaks that lay ahead.\nPolitical campaigns at college that involved this person often contained bitter references to the family's riches and misdeeds back home at the time, with many suggesting the Union was merely a springboard for a definite future in a country's politics.\nWho's the student being referred to, she also was the first Asian student to head the prestigious Oxford debating society?",
+        "Q": "She was an active member of politics at the Oxford Union through the 70s, this person ran a successful campaign to become the President of the Union in 1976 which many observers at the time felt was pointless given the far greater peaks that lay ahead.\\nPolitical campaigns at college that involved this person often contained bitter references to the family's riches and misdeeds back home at the time, with many suggesting the Union was merely a springboard for a definite future in a country's politics.\\nWho's the student being referred to, she also was the first Asian student to head the prestigious Oxford debating society?",
         "A": "Benazir Bhutto"
     },
     {
-        "Q": "Margaret Hamilton is an American computer scientist and systems engineer. She was part of the Charles Stark Draper Laboratory at MIT in the late 1960s, which at that time was working on a very important project. She eventually led a team that was credited for developing the software for that project, and her expertise in software development and reliability was critical to the project. She was awarded the Presidential Medal of Freedom in 2016 for her invaluable contributions to that project.\nWhat project was she working on, something that the USA was first to achieve?",
+        "Q": "Margaret Hamilton is an American computer scientist and systems engineer. She was part of the Charles Stark Draper Laboratory at MIT in the late 1960s, which at that time was working on a very important project. She eventually led a team that was credited for developing the software for that project, and her expertise in software development and reliability was critical to the project. She was awarded the Presidential Medal of Freedom in 2016 for her invaluable contributions to that project.\\nWhat project was she working on, something that the USA was first to achieve?",
         "A": "Apollo space program. She programmed the lunar command module"
     },
     {
-        "Q": "Along with Otto Hahn, she led the small group of scientists who first discovered nuclear fission of Uranium when it absorbed an extra electron, a process which is found at the heart of all Uranium fission reactors. This discovery of theirs was also critical to the Manhattan Project.\nShe was the first female full-time physics professor in Germany, and quite shockingly, did not receive the 1944 Nobel Prize in Chemistry, which was awarded exclusively to Otto Hahn.\nWhen the records of the Nobel committee were examined in 1990s, her exclusion from the Nobel was deemed unjust. She received a lot of posthumous honours, including the element 109 being named after her.\nWho?",
+        "Q": "Along with Otto Hahn, she led the small group of scientists who first discovered nuclear fission of Uranium when it absorbed an extra electron, a process which is found at the heart of all Uranium fission reactors. This discovery of theirs was also critical to the Manhattan Project.\\nShe was the first female full-time physics professor in Germany, and quite shockingly, did not receive the 1944 Nobel Prize in Chemistry, which was awarded exclusively to Otto Hahn.\\nWhen the records of the Nobel committee were examined in 1990s, her exclusion from the Nobel was deemed unjust. She received a lot of posthumous honours, including the element 109 being named after her.\\nWho?",
         "A": "Lisa Meitner"
     },
     {
-        "Q": "She was an English chemist and X-Ray crystallographer who made contributions to the understanding of the molecular structures of DNA, RNA, viruses, coal and graphite.\nShe is best known for her work on X-ray diffraction images of DNA, particularly photo 51, while at King's college, London.\nThe 1962 Nobel prize would ideally have been also awarded to her along with the three others who also received it, but she passed away in 1958 and the Nobel Committee does not make posthumous nominations.\nHer pioneering work on the structure of viruses also led to Aaron Klug, one of her erstwhile team members to receive the 1982 Nobel Prize in Chemistry.\nIdentify her, someone you might remember from your BS class.",
+        "Q": "She was an English chemist and X-Ray crystallographer who made contributions to the understanding of the molecular structures of DNA, RNA, viruses, coal and graphite.\\nShe is best known for her work on X-ray diffraction images of DNA, particularly photo 51, while at King's college, London.\\nThe 1962 Nobel prize would ideally have been also awarded to her along with the three others who also received it, but she passed away in 1958 and the Nobel Committee does not make posthumous nominations.\\nHer pioneering work on the structure of viruses also led to Aaron Klug, one of her erstwhile team members to receive the 1982 Nobel Prize in Chemistry.\\nIdentify her, someone you might remember from your BS class.",
         "A": "Rosalind Franklin"
     },
     {
-        "Q": "She was a Austrian-born American film actress and inventor. Along with her friend and music composer George Antheil, she created a frequency-hopping signal that could not be tracked or jammed. This they achieved using a miniaturized player-piano mechanism with radio signals. Their invention was granted a patent on August 11, 1942. However, at that time the U.S. Navy was not receptive to considering inventions coming from outside the military.\nThis work of theirs on spread spectrum technology led to the development of GPS, Bluetooth and Wi-Fi.\nWho?",
+        "Q": "She was a Austrian-born American film actress and inventor. Along with her friend and music composer George Antheil, she created a frequency-hopping signal that could not be tracked or jammed. This they achieved using a miniaturized player-piano mechanism with radio signals. Their invention was granted a patent on August 11, 1942. However, at that time the U.S. Navy was not receptive to considering inventions coming from outside the military.\\nThis work of theirs on spread spectrum technology led to the development of GPS, Bluetooth and Wi-Fi.\\nWho?",
         "A": "Hedy Lamarr"
     },
     {
-        "Q": "When the Mars exploration rover, 'Spirit' landed on Mars in 2004, the first sight visible to it was a series of 7 low hills. On February 2, 2004, they were named as follows:\n• Anderson Hill - named after Michael P. Anderson\n• Brown Hill - named after David M. Brown\n• Clark Hill - named after Laurel Clark\n• Husband Hill - named after Rick Husband\n• McCool Hill - named after William C. McCool\n• Ramon Hill - named after Ilan Ramon\nWho was the 7th hill named after?",
+        "Q": "When the Mars exploration rover, 'Spirit' landed on Mars in 2004, the first sight visible to it was a series of 7 low hills. On February 2, 2004, they were named as follows:\\n• Anderson Hill - named after Michael P. Anderson\\n• Brown Hill - named after David M. Brown\\n• Clark Hill - named after Laurel Clark\\n• Husband Hill - named after Rick Husband\\n• McCool Hill - named after William C. McCool\\n• Ramon Hill - named after Ilan Ramon\\nWho was the 7th hill named after?",
         "A": "Kalpana Chawla"
     },
     {
@@ -3965,7 +3957,7 @@
     },
     {
         "Q": "In 1995, this place of natural significance reintroduced wolves after 70 years. This caused deer to be more cautious and avoid valleys, leading to tree and grass regeneration, helping reduce erosion and stabilize the land. This fact was referenced in a 2018 college commencement address by US footballer Abby Wambach to exhort the women there to 'be the wolf' and not its counterpart who is supposed to keep their head down and not stray off the beaten track. Which place? Who is the wolf's counterpart?",
-        "A": "Yellowstone National Park\nLittle Red Riding hood"
+        "A": "Yellowstone National Park\\nLittle Red Riding hood"
     },
     {
         "Q": "When mathematics uses Big-O notation to represent asymptotic function growth, it used the Greek O instead of the Latin O for the same. This would probably confuse anyone with even a passing knowledge of Greek due to what oddity?",
@@ -4181,7 +4173,7 @@
     },
     {
         "Q": "A ____________ is a figure of speech in which the latter part of a sentence or phrase is surprising or unexpected in a way that causes the reader or listener to reframe or reinterpret the first part. It is frequently used for humorous or dramatic effect, sometimes producing an anticlimax. For this reason, it is extremely popular among comedians and satirists. Some _____________ not only change the meaning of an early phrase, but they also play on the double meaning of a particular word, creating a form of syllepsis.",
-        "A": "Paraprosdokian. \n 'You can always count on the Americans to do the right thing—after they have tried everything else.' Churchill - Winston. \n This quote is an example of Paraprosdokian"
+        "A": "Paraprosdokian. \\n 'You can always count on the Americans to do the right thing—after they have tried everything else.' Churchill - Winston. \\n This quote is an example of Paraprosdokian"
     },
     {
         "Q": "'Club Foot' by Kasabian 'Nothing to Worry About' by Peter Bjorn and John 'Kids' by Sleigh Bells 'Let U Know' by Plastilina Mosh 'Sketches (20 Something Life)' by La Rocca Connect (Non Exhaustive) EA SPORTS's FIFA's TITLE SONGS OVER THE YEARS",
@@ -4288,7 +4280,7 @@
         "A": "Hell's Grannies from Hell's Angels"
     },
     {
-        "Q": "This passage from Macbeth on the actions of a hung-over porter are thought to be one possible origin of what?\n• (knocking off stage) Who's there, i' th' name of Beelzebub? Here's a farmer that hanged himself on the expectation of plenty. Come in time, have napkins enough about you, here you'll sweat for 't. \n• (more knocking off stage) Who's there, in th' other devil's name? Faith, here's an equivocator that could swear in both the scales against either scale, who committed treason enough for God's sake, yet could not equivocate to heaven. O, come in, equivocator.\n“Here There Be An Answer”",
+        "Q": "This passage from Macbeth on the actions of a hung-over porter are thought to be one possible origin of what?\\n• (knocking off stage) Who's there, i' th' name of Beelzebub? Here's a farmer that hanged himself on the expectation of plenty. Come in time, have napkins enough about you, here you'll sweat for 't. \\n• (more knocking off stage) Who's there, in th' other devil's name? Faith, here's an equivocator that could swear in both the scales against either scale, who committed treason enough for God's sake, yet could not equivocate to heaven. O, come in, equivocator.\\n“Here There Be An Answer”",
         "A": "Knock Knock Jokes"
     },
     {
@@ -4296,15 +4288,15 @@
         "A": "Berliner Pfannkuchen"
     },
     {
-        "Q": "IN THE HEART OF THE OCEAN\n• The USS Thresher was an American Nuclear submarine that sunk in the North Atlantic Ocean during deep-diving tests 220 miles east of Boston, on 10 April 1963.\n• The USS Scorpion was another American Nuclear Submarine that was declared lost in the Atlantic on 5 June 1968.\n• Although both these wrecks were examined (to an extent) by the bathyscaphes Trieste and Trieste II respectively, the US Navy wanted a secret mission (since the Cold war was ongoing) to collect data and photographs on the same, under the command of Commander Robert Ballard. What was the cover story used for this mission?",
+        "Q": "IN THE HEART OF THE OCEAN\\n• The USS Thresher was an American Nuclear submarine that sunk in the North Atlantic Ocean during deep-diving tests 220 miles east of Boston, on 10 April 1963.\\n• The USS Scorpion was another American Nuclear Submarine that was declared lost in the Atlantic on 5 June 1968.\\n• Although both these wrecks were examined (to an extent) by the bathyscaphes Trieste and Trieste II respectively, the US Navy wanted a secret mission (since the Cold war was ongoing) to collect data and photographs on the same, under the command of Commander Robert Ballard. What was the cover story used for this mission?",
         "A": "The search for the Titanic"
     },
     {
-        "Q": "THEY ARE CRAZY \n• This 'literary' practice seems to have its origin in the string /riks/ which consists of two morphemes /rik/ or 'king' and /s/ which was used as 'nominative singular case'.\n• The literary practice honours historical precedence. Indeed, it may be called as the Celtic variant of the Latin rex, whose stem is /reg/ \n• However, as is obvious from the obfuscating discourse above, this string was used only for royalty and nobility, such as chieftains and warlords, something that the aforementioned 'literary' practice violates. What practice?",
+        "Q": "THEY ARE CRAZY \\n• This 'literary' practice seems to have its origin in the string /riks/ which consists of two morphemes /rik/ or 'king' and /s/ which was used as 'nominative singular case'.\\n• The literary practice honours historical precedence. Indeed, it may be called as the Celtic variant of the Latin rex, whose stem is /reg/ \\n• However, as is obvious from the obfuscating discourse above, this string was used only for royalty and nobility, such as chieftains and warlords, something that the aforementioned 'literary' practice violates. What practice?",
         "A": "All names in Asterix ending with -ix in honour of Gaulish chieftains such as Vercingetorix."
     },
     {
-        "Q": "X literally means 'revelation / lifting of the veil' from its original Greek.\n• Its general sense in Middle English was 'insight, vision, hallucination'\n• In Biblical accounts of revelations the manner of the revelation and its reception is generally described. According to the Book of Daniel, after a long period of fasting, Daniel is standing by a river when a heavenly being appears to him, and the revelation follows. The association of revelations with God's Kingdom lead to the modern sense of the word.",
+        "Q": "X literally means 'revelation / lifting of the veil' from its original Greek.\\n• Its general sense in Middle English was 'insight, vision, hallucination'\\n• In Biblical accounts of revelations the manner of the revelation and its reception is generally described. According to the Book of Daniel, after a long period of fasting, Daniel is standing by a river when a heavenly being appears to him, and the revelation follows. The association of revelations with God's Kingdom lead to the modern sense of the word.",
         "A": "Apocalypse"
     },
     {
